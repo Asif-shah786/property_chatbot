@@ -145,7 +145,6 @@ streamlit==1.28.0
 sympy==1.12
 tenacity==8.2.3
 tiktoken==0.5.2
-tk==0.1.0
 tokenizers==0.15.2
 toml==0.10.2
 tomli==2.0.1
@@ -173,3 +172,4 @@ zipp==3.17.0
 zope.event==5.0
 zope.interface==6.1
 zope.schema==7.0.1
+scikit-learn==1.4.2
